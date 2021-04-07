@@ -1,6 +1,10 @@
 # Change Log for latlong
 Lightweight library for common latitude and longitude calculation
 
+## [v0.6.2] - 2021-04-07
+* 改由chaochih.lin維護
+* 相依性套件更新
+
 ## [Unreleased](http://github.com/mikemitterer/dart-latlong/compare/v0.6...HEAD)
 
 ### Refactor
